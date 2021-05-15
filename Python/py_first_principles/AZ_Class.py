@@ -15,6 +15,8 @@ b=testrun('bala',200)
 print('calling object b with id value as below')
 print(id(b))
 
+# left blank test sample1
+
 
 # Result of the above code
 calling init method with id value as below
